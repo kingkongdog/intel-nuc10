@@ -823,7 +823,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>keepsyms=1 debug=0x100 igfxonln=1 ipc_control_port_options=0</string>
+                    <string>igfxonln=1 ipc_control_port_options=0</string>
                     <key>csr-active-config</key>
                     <data>fwoAAA==</data>
                     <key>run-efi-updater</key>
