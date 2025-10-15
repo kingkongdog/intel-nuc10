@@ -902,23 +902,23 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02229200GUPHC1FB</string>
+                <string>C02045130QX00001M</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>AAAAAAAA</data>
+                <data>NGppc4P1</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>iMac20,1</string>
+                <string>MacBookPro16,3</string>
                 <key>SystemSerialNumber</key>
-                <string>C02J3VZYPN5T</string>
+                <string>C02DN06MP3XY</string>
                 <key>SystemUUID</key>
-                <string>A1C9CA8F-CAD3-418F-BD35-13B45592D0C6</string>
+                <string>8C55EF0F-2192-4E72-8508-90B7C96640F0</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
