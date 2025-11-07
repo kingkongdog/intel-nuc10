@@ -861,7 +861,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>ipc_control_port_options=0 -igfxblr igfxonln=1 igfxfw=2</string>
+                    <string>ipc_control_port_options=0 -igfxblr igfxonln=1 igfxfw=2 revpatch=sbvmm</string>
                     <key>csr-active-config</key>
                     <data>fwoAAA==</data>
                     <key>run-efi-updater</key>
